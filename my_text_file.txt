@@ -1,0 +1,5 @@
+This is my new text file.
+
+This file was created from the terminal.
+
+Now I will save the text file and exit.
